@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Video Scripts
+s.txt
+script.txt
+Include
+tcl
+.idea
+.vscode
+Scripts
+Lib
+game.py
+config.code-workspace
